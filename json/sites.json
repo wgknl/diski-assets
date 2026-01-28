@@ -1,166 +1,166 @@
 [
   {
-    "id": 4,
+    "id": 37,
     "webshop_name": "zalando",
     "webshop_url": "https://www.zalando.nl/dames-home/"
   },
   {
-    "id": 5,
+    "id": 38,
     "webshop_name": "asos",
     "webshop_url": "https://www.asos.com/nl/dames/"
   },
   {
-    "id": 6,
+    "id": 39,
     "webshop_name": "nike",
     "webshop_url": "https://www.nike.com/nl/en/"
   },
   {
-    "id": 7,
+    "id": 40,
     "webshop_name": "estrid",
     "webshop_url": "https://estrid.com/en-nl/pages/home"
   },
   {
-    "id": 8,
+    "id": 41,
     "webshop_name": "hunkemoller",
     "webshop_url": "https://www.hunkemoller.nl/"
   },
   {
-    "id": 9,
-    "webshop_name": "hm",
+    "id": 42,
+    "webshop_name": "h&m",
     "webshop_url": "https://www2.hm.com/nl_nl/index.html"
   },
   {
-    "id": 10,
+    "id": 43,
     "webshop_name": "iciparisxl",
     "webshop_url": "https://www.iciparisxl.nl/"
   },
   {
-    "id": 11,
+    "id": 44,
     "webshop_name": "stradivarius",
     "webshop_url": "https://www.stradivarius.com/nl/"
   },
   {
-    "id": 12,
+    "id": 45,
     "webshop_name": "bershka",
     "webshop_url": "https://www.bershka.com/nl/h-woman.html"
   },
   {
-    "id": 13,
+    "id": 46,
     "webshop_name": "douglas",
     "webshop_url": "https://www.douglas.nl/nl"
   },
   {
-    "id": 14,
+    "id": 47,
     "webshop_name": "aimnsportswear",
     "webshop_url": "https://www.aimnsportswear.nl/"
   },
   {
-    "id": 15,
-    "webshop_name": "lounge",
+    "id": 48,
+    "webshop_name": "loungeunderwear",
     "webshop_url": "https://nl.lounge.com/"
   },
   {
-    "id": 16,
-    "webshop_name": "my-jewellery",
+    "id": 49,
+    "webshop_name": "myjewellery",
     "webshop_url": "https://www.my-jewellery.com/nl-nl"
   },
   {
-    "id": 17,
+    "id": 50,
     "webshop_name": "arket",
     "webshop_url": "https://www.arket.com/en-nl/"
   },
   {
-    "id": 18,
-    "webshop_name": "air-up",
+    "id": 51,
+    "webshop_name": "airup",
     "webshop_url": "https://shop.air-up.com/nl/en"
   },
   {
-    "id": 19,
-    "webshop_name": "aboutyou",
+    "id": 52,
+    "webshop_name": "about you",
     "webshop_url": "https://en.aboutyou.nl/your-shop"
   },
   {
-    "id": 20,
-    "webshop_name": "debijenkorf",
+    "id": 53,
+    "webshop_name": "bijenkorf",
     "webshop_url": "https://www.debijenkorf.nl/"
   },
   {
-    "id": 21,
-    "webshop_name": "bol",
+    "id": 54,
+    "webshop_name": "bol.com",
     "webshop_url": "https://www.bol.com/nl/nl/"
   },
   {
-    "id": 22,
+    "id": 55,
     "webshop_name": "decathlon",
     "webshop_url": "https://www.decathlon.nl/"
   },
   {
-    "id": 23,
+    "id": 56,
     "webshop_name": "esn",
     "webshop_url": "https://nl.esn.com/"
   },
   {
-    "id": 24,
-    "webshop_name": "fashiontiger",
+    "id": 57,
+    "webshop_name": "fashiontiger.nl",
     "webshop_url": "https://fashiontiger.nl/"
   },
   {
-    "id": 25,
+    "id": 58,
     "webshop_name": "ginatricot",
     "webshop_url": "https://www.ginatricot.com/nl"
   },
   {
-    "id": 26,
+    "id": 59,
     "webshop_name": "gutsgusto",
     "webshop_url": "https://www.gutsgusto.com/en"
   },
   {
-    "id": 27,
+    "id": 60,
     "webshop_name": "loavies",
     "webshop_url": "https://www.loavies.com/nl/"
   },
   {
-    "id": 28,
-    "webshop_name": "most-wanted",
+    "id": 61,
+    "webshop_name": "mostwanted",
     "webshop_url": "https://most-wanted.com/"
   },
   {
-    "id": 29,
-    "webshop_name": "na-kd",
+    "id": 62,
+    "webshop_name": "nakdfashion",
     "webshop_url": "https://www.na-kd.com/nl"
   },
   {
-    "id": 30,
+    "id": 63,
     "webshop_name": "pinkgellac",
     "webshop_url": "https://pinkgellac.com/nl"
   },
   {
-    "id": 31,
+    "id": 64,
     "webshop_name": "sellpy",
     "webshop_url": "https://www.sellpy.nl/"
   },
   {
-    "id": 32,
+    "id": 65,
     "webshop_name": "snuggs",
     "webshop_url": "https://snuggs.nl/"
   },
   {
-    "id": 33,
-    "webshop_name": "strongerlabel",
+    "id": 66,
+    "webshop_name": "stronger",
     "webshop_url": "https://www.strongerlabel.com/nl"
   },
   {
-    "id": 34,
+    "id": 67,
     "webshop_name": "tessv",
     "webshop_url": "https://www.tessv.nl/"
   },
   {
-    "id": 35,
+    "id": 68,
     "webshop_name": "wehkamp",
     "webshop_url": "https://www.wehkamp.nl/"
   },
   {
-    "id": 36,
+    "id": 69,
     "webshop_name": "zara",
     "webshop_url": "https://www.zara.com/nl/"
   }
