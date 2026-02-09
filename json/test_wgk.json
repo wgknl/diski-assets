@@ -1,0 +1,32 @@
+[
+  {
+    "webshop_name": "Zalando",
+    "url": "https://www.zalando.nl",
+    "korting_text": "VALENTIJNSALE 20% KORTING MET CODE: VDAY20",
+    "date": "2026-02-09 20:02:03"
+  },
+  {
+    "webshop_name": "Asos",
+    "url": "https://www.asos.com",
+    "korting_text": "15% off op alle broeken",
+    "date": "2026-02-09 22:04:03"
+  },
+  {
+    "webshop_name": "H&M",
+    "url": "https://www2.hm.com",
+    "korting_text": "10% korting op alles t/m zondag",
+    "date": "2026-02-08 18:30:00"
+  },
+  {
+    "webshop_name": "Bol.com",
+    "url": "https://www.bol.com",
+    "korting_text": "EXTRA 5% korting op elektronica",
+    "date": "2026-02-09 19:45:00"
+  },
+  {
+    "webshop_name": "Coolblue",
+    "url": "https://www.coolblue.nl",
+    "korting_text": "Korting op geselecteerde huishoudapparaten",
+    "date": "2026-02-09 21:15:00"
+  }
+]
