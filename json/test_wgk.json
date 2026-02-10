@@ -1,9 +1,69 @@
 [
   {
+    "webshop_name": "asos",
+    "url": "https://www.asos.com/nl/dames/",
+    "korting_text": "Nieuw hier? Krijg 15% korting als je je aanmeldt voor onze regelmatige updates*. Gebruik code:…",
+    "date": "2026-02-09 09:36:37"
+  },
+  {
+    "webshop_name": "hm",
+    "url": "https://www2.hm.com/nl_nl/index.html",
+    "korting_text": "-25% OP JEANS – BIJ AANKOOP VAN 2 OF MEER JEANS -25% OP JEANS BIJ…",
+    "date": "2026-02-09 09:37:49"
+  },
+  {
+    "webshop_name": "douglas",
+    "url": "https://www.douglas.nl/nl",
+    "korting_text": "20 % OP ALLES BIJ AANKOOP VANAF € 25,- M.u.v. About-face, Clé de Peau Beauté,…",
+    "date": "2026-02-09 09:39:13"
+  },
+  {
     "webshop_name": "douglas",
     "url": "https://www.douglas.nl/nl",
     "korting_text": "20% op ALLES vanaf €25,- | Ontdek de beste Valentine's Deals",
     "date": "2026-02-09 09:39:13"
+  },
+  {
+    "webshop_name": "airup",
+    "url": "https://shop.air-up.com/nl/en",
+    "korting_text": "VALENTINE'S DAY GIFTS - SAVE UP TO 25%",
+    "date": "2026-02-09 09:40:54"
+  },
+  {
+    "webshop_name": "decathlon",
+    "url": "https://www.decathlon.nl/",
+    "korting_text": "Duik nu in onze sale en ontdek heel veel voordeel! Met kortingen tot 70%. Naar…",
+    "date": "2026-02-09 09:42:15"
+  },
+  {
+    "webshop_name": "esn",
+    "url": "https://nl.esn.com/",
+    "korting_text": "Code: ESN\nBESPAAR 20% OP ALLES\n48u Flash Sale: -40% op samples",
+    "date": "2026-02-09 09:43:46"
+  },
+  {
+    "webshop_name": "esn",
+    "url": "https://nl.esn.com/",
+    "korting_text": "Flash Sale: -40% op samples ⚡",
+    "date": "2026-02-09 09:43:46"
+  },
+  {
+    "webshop_name": "loavies",
+    "url": "https://www.loavies.com/nl/",
+    "korting_text": "Get 15% off your order 🔥 Sign up for our newsletter & get 15% off.…",
+    "date": "2026-02-09 09:45:11"
+  },
+  {
+    "webshop_name": "nakdfashion",
+    "url": "https://www.na-kd.com/nl",
+    "korting_text": "Subscribe to our newsletter – get 15% off your first purchase | SIGN UP",
+    "date": "2026-02-09 09:46:03"
+  },
+  {
+    "webshop_name": "sellpy",
+    "url": "https://www.sellpy.nl/",
+    "korting_text": "10% korting op je eerste bestelling met de code sellpy10!",
+    "date": "2026-02-09 09:46:52"
   },
   {
     "webshop_name": "snuggs",
@@ -12,10 +72,58 @@
     "date": "2026-02-09 09:47:17"
   },
   {
+    "webshop_name": "snuggs",
+    "url": "https://snuggs.nl/",
+    "korting_text": "% 30% OFF EVERYTHING",
+    "date": "2026-02-09 09:47:17"
+  },
+  {
+    "webshop_name": "temu",
+    "url": "https://www.temu.com/nl-en",
+    "korting_text": "Valentine's Day Sale UP TO 70% OFF",
+    "date": "2026-02-09 17:41:18"
+  },
+  {
+    "webshop_name": "aliexpress",
+    "url": "http://nl.aliexpress.com/",
+    "korting_text": "Welkomstdeal Speciale deals voor nieuwe klanten",
+    "date": "2026-02-09 17:41:38"
+  },
+  {
+    "webshop_name": "aliexpress",
+    "url": "http://nl.aliexpress.com/",
+    "korting_text": "Eindigt over: 00:00:00",
+    "date": "2026-02-09 17:41:38"
+  },
+  {
+    "webshop_name": "cabaulifestyle",
+    "url": "https://cabaulifestyle.com/",
+    "korting_text": "Order before 23:45h, shipped today",
+    "date": "2026-02-09 17:42:11"
+  },
+  {
     "webshop_name": "lookfantastic",
     "url": "https://www.lookfantastic.nl",
     "korting_text": "Valentijnskorting Start de week in schoonheid met 25% korting. Aanbieding inclusief topmerken als Armani, Elemis,…",
     "date": "2026-02-09 17:42:28"
+  },
+  {
+    "webshop_name": "lookfantastic",
+    "url": "https://www.lookfantastic.nl",
+    "korting_text": "KOOPZONDAG VERLENGD: 25% KORTING | CODE: MAANDAG",
+    "date": "2026-02-09 17:42:28"
+  },
+  {
+    "webshop_name": "greetz.nl",
+    "url": "https://www.greetz.nl/nl/",
+    "korting_text": "Gratis bezorging vanaf € 20 Gebruik code BEZORGING20 voor gratis bezorging vanaf € 20.",
+    "date": "2026-02-09 19:50:49"
+  },
+  {
+    "webshop_name": "greetz.nl",
+    "url": "https://www.greetz.nl/nl/",
+    "korting_text": "Nieuw bij Greetz? Stuur je eerste kaart gratis met code WELKOM",
+    "date": "2026-02-09 19:50:49"
   },
   {
     "webshop_name": "hema",
@@ -30,6 +138,24 @@
     "date": "2026-02-09 19:52:24"
   },
   {
+    "webshop_name": "sizzthebrand",
+    "url": "https://sizzthebrand.com/",
+    "korting_text": "Winter Archive. Up to 50% off. Shop now.",
+    "date": "2026-02-09 19:52:45"
+  },
+  {
+    "webshop_name": "jdsports",
+    "url": "https://www.jdsports.nl/",
+    "korting_text": "10% KORTING VOOR NIEUWE KLANTEN! - Gebruik code HELLO.",
+    "date": "2026-02-09 19:53:11"
+  },
+  {
+    "webshop_name": "otrium",
+    "url": "https://www.otrium.nl/dames",
+    "korting_text": "Nieuwe klant? Gebruik code WELCOME voor gratis verzending.",
+    "date": "2026-02-09 19:53:38"
+  },
+  {
     "webshop_name": "albelli",
     "url": "https://www.albelli.nl/",
     "korting_text": "25% korting op bestellingen vanaf € 55 | Code: VALENTIJN25 | t/m 10-02-2026, 09:59 uur",
@@ -40,6 +166,12 @@
     "url": "https://www.paulaschoice.nl/nl",
     "korting_text": "20% KORTING OP DE HELE WEBSITE",
     "date": "2026-02-09 19:55:18"
+  },
+  {
+    "webshop_name": "westwing",
+    "url": "https://www.westwing.nl/",
+    "korting_text": "Eichholtz in de SALE",
+    "date": "2026-02-09 19:55:58"
   },
   {
     "webshop_name": "bodyandfit.com",
@@ -54,6 +186,36 @@
     "date": "2026-02-09 19:56:45"
   },
   {
+    "webshop_name": "coolblue",
+    "url": "https://www.coolblue.nl/",
+    "korting_text": "Voor 23.59 uur besteld, morgen gratis bezorgd",
+    "date": "2026-02-09 19:59:23"
+  },
+  {
+    "webshop_name": "spacenk.com",
+    "url": "https://www.spacenk.com/nl/home",
+    "korting_text": "Geniet van 15% korting op je eerste bestelling met code SNK15",
+    "date": "2026-02-09 19:59:46"
+  },
+  {
+    "webshop_name": "mimamsterdam",
+    "url": "https://www.mimamsterdam.com/nl/",
+    "korting_text": "vóór 14.00u besteld, zelfde (werk)dag verzonden",
+    "date": "2026-02-09 20:00:53"
+  },
+  {
+    "webshop_name": "hellofresh.nl",
+    "url": "https://www.hellofresh.nl/",
+    "korting_text": "Krijg tot €90 korting + de hele winter gratis extra's* Inclusief gratis bezorging op de…",
+    "date": "2026-02-09 20:01:18"
+  },
+  {
+    "webshop_name": "hellofresh.nl",
+    "url": "https://www.hellofresh.nl/",
+    "korting_text": "De eerste 4 weken tot € 90 korting*",
+    "date": "2026-02-09 20:01:18"
+  },
+  {
     "webshop_name": "merodacosmetics",
     "url": "https://merodacosmetics.nl/",
     "korting_text": "VALENTIJNSALE 20% KORTING MET CODE: VDAY20",
@@ -62,8 +224,20 @@
   {
     "webshop_name": "hollandandbarrett",
     "url": "https://www.hollandandbarrett.nl/",
-    "korting_text": "-15% bij €60 Code: SHOP15",
+    "korting_text": "Valentijn voordeel Een beetje liefde, veel korting TOT 70% KORTING",
     "date": "2026-02-09 20:04:39"
+  },
+  {
+    "webshop_name": "hollandandbarrett",
+    "url": "https://www.hollandandbarrett.nl/",
+    "korting_text": "-15% bij €60 01 d 13 h 55 m 19 s Code: SHOP15",
+    "date": "2026-02-09 20:04:39"
+  },
+  {
+    "webshop_name": "bylashbabe",
+    "url": "https://bylashbabe.nl/",
+    "korting_text": "2+1 GRATIS",
+    "date": "2026-02-09 20:05:09"
   },
   {
     "webshop_name": "bylashbabe",
@@ -72,16 +246,46 @@
     "date": "2026-02-09 20:05:09"
   },
   {
+    "webshop_name": "bylashbabe",
+    "url": "https://bylashbabe.nl/",
+    "korting_text": "Lip Butter 4-Pack",
+    "date": "2026-02-09 20:05:09"
+  },
+  {
+    "webshop_name": "bylashbabe",
+    "url": "https://bylashbabe.nl/",
+    "korting_text": "Available daily from 9AM to 10PM",
+    "date": "2026-02-09 20:05:09"
+  },
+  {
+    "webshop_name": "haarshop.nl",
+    "url": "https://www.haarshop.nl/",
+    "korting_text": "TOT 57% KORTING Op Fudge! Scoor nu onze bestseller Hair Sculpt Shaper en andere Fudge…",
+    "date": "2026-02-09 20:06:48"
+  },
+  {
     "webshop_name": "cider",
     "url": "https://www.shopcider.com/",
     "korting_text": "Up to 70% Off",
     "date": "2026-02-09 20:07:07"
   },
   {
+    "webshop_name": "koreanskincare",
+    "url": "https://koreanskincare.nl/",
+    "korting_text": "Voor 23:45 besteld, dezelfde dag verzonden. (zon-vr) Gratis verzending vanaf €40 (NL/BE)",
+    "date": "2026-02-09 20:07:38"
+  },
+  {
     "webshop_name": "colourfulrebel",
     "url": "https://colourfulrebel.com/",
     "korting_text": "TOT 50% KORTING TIJDENS DE END OF SEASON SALE",
     "date": "2026-02-09 20:07:58"
+  },
+  {
+    "webshop_name": "parfumdreams.nl",
+    "url": "https://www.parfumdreams.nl/",
+    "korting_text": "Meld je nu aan voor de nieuwsbrief en profiteer van 22%* korting",
+    "date": "2026-02-09 20:08:51"
   },
   {
     "webshop_name": "parfumdreams.nl",
@@ -110,25 +314,13 @@
   {
     "webshop_name": "emmasleepnl",
     "url": "https://www.emma-sleep.nl/",
-    "korting_text": "Winter Sale: Tot 50% korting op onze bestsellers!",
+    "korting_text": "10% extra op onze prijswinnende toppers! Code: WINNAAR10 Eindigt in: 00d 13u 48m 49s",
     "date": "2026-02-09 20:11:08"
   },
   {
-    "webshop_name": "hm",
-    "url": "https://www2.hm.com/nl_nl/index.html",
-    "korting_text": "-25% OP JEANS – BIJ AANKOOP VAN 2 OF MEER JEANS -25% OP JEANS BIJ…",
-    "date": "2026-02-09 09:37:49"
-  },
-  {
-    "webshop_name": "airup",
-    "url": "https://shop.air-up.com/nl/en",
-    "korting_text": "VALENTINE'S DAY GIFTS - SAVE UP TO 25%",
-    "date": "2026-02-09 09:40:54"
-  },
-  {
-    "webshop_name": "decathlon",
-    "url": "https://www.decathlon.nl/",
-    "korting_text": "Duik nu in onze sale en ontdek heel veel voordeel! Met kortingen tot 70%. Naar…",
-    "date": "2026-02-09 09:42:15"
+    "webshop_name": "emmasleepnl",
+    "url": "https://www.emma-sleep.nl/",
+    "korting_text": "Winter Sale: Tot 50% korting op onze bestsellers!",
+    "date": "2026-02-09 20:11:08"
   }
 ]
