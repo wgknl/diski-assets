@@ -1,5 +1,41 @@
 [
   {
+    "webshop_name": "jdsports",
+    "url": "https://www.jdsports.nl/",
+    "korting_text": "Extra 20% korting op kinderkleding met code EXTRA20",
+    "date": "2026-02-12 09:50:08"
+  },
+  {
+    "webshop_name": "asos",
+    "url": "https://www.asos.com/nl/dames/",
+    "korting_text": "Tot -30% op duizenden items met code SWEET",
+    "date": "2026-02-12 09:23:42"
+  },
+  {
+    "webshop_name": "bijenkorf",
+    "url": "https://www.debijenkorf.nl/",
+    "korting_text": "20% korting op beauty assortiment",
+    "date": "2026-02-12 09:31:17"
+  },
+  {
+    "webshop_name": "esn",
+    "url": "https://nl.esn.com/",
+    "korting_text": "Tot 25% korting op Designer Whey eiwitten",
+    "date": "2026-02-12 09:32:43"
+  },
+  {
+    "webshop_name": "greetz.nl",
+    "url": "https://www.greetz.nl/nl/",
+    "korting_text": "20% korting op alle ballonnen met code BALLON20",
+    "date": "2026-02-12 09:46:45"
+  },
+  {
+    "webshop_name": "parfumdreams.nl",
+    "url": "https://www.parfumdreams.nl/",
+    "korting_text": "25% korting met code LOVE25",
+    "date": "2026-02-12 10:12:27"
+  },
+  {
     "webshop_name": "nakdfashion",
     "url": "https://www.na-kd.com/nl",
     "korting_text": "40% korting op winterjassen met kortingscode TREAT40",
