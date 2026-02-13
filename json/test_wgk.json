@@ -1,5 +1,35 @@
 [
   {
+    "webshop_name": "pinkgellac",
+    "url": "https://pinkgellac.com/nl",
+    "korting_text": "20% korting op alles met code LOVE20",
+    "date": "2026-02-13 13:12:49"
+  },
+  {
+    "webshop_name": "zelesta.nl",
+    "url": "https://zelesta.nl/",
+    "korting_text": "Weekenddeal: Teddybed 1+1 gratis",
+    "date": "2026-02-13 13:53:19"
+  },
+  {
+    "webshop_name": "etos",
+    "url": "https://www.etos.nl/",
+    "korting_text": "Dagdeals: alleen vandaag! OP=OP",
+    "date": "2026-02-13 13:37:05"
+  },
+  {
+    "webshop_name": "otrium",
+    "url": "https://www.otrium.nl/dames",
+    "korting_text": "15% extra korting op Valentijns-edit looks",
+    "date": "2026-02-13 13:27:51"
+  },
+  {
+    "webshop_name": "greetz.nl",
+    "url": "https://www.greetz.nl/nl/",
+    "korting_text": "20% korting op valentijnscadeaus met code",
+    "date": "2026-02-13 13:23:40"
+  },
+  {
     "webshop_name": "jdsports",
     "url": "https://www.jdsports.nl/",
     "korting_text": "Extra 20% korting op kinderkleding met code EXTRA20",
