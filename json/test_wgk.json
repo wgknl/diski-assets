@@ -1,5 +1,53 @@
 [
   {
+    "webshop_name": "zalando",
+    "url": "https://www.zalando.nl/dames-home/",
+    "korting_text": "15% korting op geselecteerde items met kortingscode",
+    "date": "2026-02-14 11:46:21"
+  },
+  {
+    "webshop_name": "mostwanted",
+    "url": "https://most-wanted.com/",
+    "korting_text": "20% korting op alles alleen vandaag",
+    "date": "2026-02-14 12:03:52"
+  },
+  {
+    "webshop_name": "fashiontiger.nl",
+    "url": "https://fashiontiger.nl/",
+    "korting_text": "14% korting op alles voor Valentijnsdag",
+    "date": "2026-02-14 12:00:41"
+  },
+  {
+    "webshop_name": "veromoda",
+    "url": "https://www.veromoda.com/nl-nl",
+    "korting_text": "20% korting op alles, alleen vandaag",
+    "date": "2026-02-14 12:39:36"
+  },
+  {
+    "webshop_name": "greetz.nl",
+    "url": "https://www.greetz.nl/nl/",
+    "korting_text": "20% korting op alle valentijnskaarten en bloemen met code LIEFDE20",
+    "date": "2026-02-14 12:18:07"
+  },
+  {
+    "webshop_name": "esn",
+    "url": "https://nl.esn.com/",
+    "korting_text": "48-uurs Flash Sale: -20% op alle repen",
+    "date": "2026-02-14 12:00:09"
+  },
+  {
+    "webshop_name": "parfumdreams.nl",
+    "url": "https://www.parfumdreams.nl/",
+    "korting_text": "24 uur flash sale tot wel 60% korting",
+    "date": "2026-02-14 12:46:54"
+  },
+  {
+    "webshop_name": "hollandandbarrett",
+    "url": "https://www.hollandandbarrett.nl/",
+    "korting_text": "Valentijnsweekend met extra 20% korting en afteltimer",
+    "date": "2026-02-14 12:40:06"
+  },
+  {
     "webshop_name": "pinkgellac",
     "url": "https://pinkgellac.com/nl",
     "korting_text": "20% korting op alles met code LOVE20",
