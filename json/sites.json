@@ -498,5 +498,135 @@
     "id": 136,
     "webshop_name": "emmasleepnl",
     "webshop_url": "https://www.emma-sleep.nl/"
+  },
+  {
+    "id": 137,
+    "webshop_name": "snipes",
+    "webshop_url": "https://www.snipes.com/nl-nl/"
+  },
+  {
+    "id": 138,
+    "webshop_name": "omoda",
+    "webshop_url": "https://www.omoda.nl/"
+  },
+  {
+    "id": 139,
+    "webshop_name": "rituals",
+    "webshop_url": "https://www.rituals.com/nl-nl/home"
+  },
+  {
+    "id": 140,
+    "webshop_name": "oliviakate",
+    "webshop_url": "https://oliviakate.nl/"
+  },
+  {
+    "id": 141,
+    "webshop_name": "scuffers",
+    "webshop_url": "https://scuffers.com/"
+  },
+  {
+    "id": 142,
+    "webshop_name": "mango",
+    "webshop_url": "https://shop.mango.com/nl/nl"
+  },
+  {
+    "id": 143,
+    "webshop_name": "costes",
+    "webshop_url": "https://www.costesfashion.com/nl-nl"
+  },
+  {
+    "id": 144,
+    "webshop_name": "boozyshop",
+    "webshop_url": "https://www.boozyshop.nl/"
+  },
+  {
+    "id": 145,
+    "webshop_name": "minre",
+    "webshop_url": "https://www.minre.nl/"
+  },
+  {
+    "id": 146,
+    "webshop_name": "uniqlo",
+    "webshop_url": "https://www.uniqlo.com/nl/nl/"
+  },
+  {
+    "id": 147,
+    "webshop_name": "esuals",
+    "webshop_url": "https://www.esuals.nl/"
+  },
+  {
+    "id": 148,
+    "webshop_name": "deloox",
+    "webshop_url": "https://www.deloox.nl/"
+  },
+  {
+    "id": 149,
+    "webshop_name": "weekday",
+    "webshop_url": "https://www.weekday.com/nl-nl/women/"
+  },
+  {
+    "id": 150,
+    "webshop_name": "lucardi",
+    "webshop_url": "https://www.lucardi.nl/"
+  },
+  {
+    "id": 151,
+    "webshop_name": "notino",
+    "webshop_url": "https://www.notino.nl/"
+  },
+  {
+    "id": 152,
+    "webshop_name": "cottonclub",
+    "webshop_url": "https://www.cottonclub.nl/nl-nl"
+  },
+  {
+    "id": 153,
+    "webshop_name": "kruidvat",
+    "webshop_url": "https://www.kruidvat.nl/"
+  },
+  {
+    "id": 154,
+    "webshop_name": "shoeby",
+    "webshop_url": "https://www.shoeby.nl/"
+  },
+  {
+    "id": 155,
+    "webshop_name": "gisou",
+    "webshop_url": "https://gisou.com/"
+  },
+  {
+    "id": 156,
+    "webshop_name": "boohoo",
+    "webshop_url": "https://nl.boohoo.com/"
+  },
+  {
+    "id": 157,
+    "webshop_name": "pandora",
+    "webshop_url": "https://nl.pandora.net/"
+  },
+  {
+    "id": 158,
+    "webshop_name": "sissy-boy",
+    "webshop_url": "https://www.sissy-boy.com/"
+  },
+  {
+    "id": 159,
+    "webshop_name": "xenos",
+    "webshop_url": "https://www.xenos.nl/"
+  },
+  {
+    "id": 160,
+    "webshop_name": "thesting",
+    "webshop_url": "https://www.thesting.com/nl-nl/dames"
+  },
+  {
+    "id": 161,
+    "webshop_name": "sophiamae",
+    "webshop_url": "https://sophia-mae.com/"
+  },
+  {
+    "id": 162,
+    "webshop_name": "urbanoutfitters",
+    "webshop_url": "https://www.urbanoutfitters.com/"
   }
 ]
